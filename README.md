@@ -6,6 +6,6 @@
 ## Frequently used git commands 
 
 ```shell
-git push origin main 
+git push -u origin main 
 ```
 --- ---

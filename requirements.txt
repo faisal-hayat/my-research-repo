@@ -2,7 +2,7 @@
 # Libraries without version number #
 numpy==1.21.5
 pandas==0.11.2
-sklearn
-seaborn
+sklearn==1.1.2
+seaborn==0.11.2
 matplotlib
 # -------------------------------------------------------------------------------------------------------------------- #
